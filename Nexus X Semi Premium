@@ -1,2 +1,2 @@
-Print("NEXUS X PREMIUM FOR LIFE!!")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/1mpactfuls/Nexus-X-Semi-Premium/main/Semi%20Premium%20Nexus%20X%20Source.lua")()
+print("NEXUS X PREMIUM FOR LIFE!!")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1mpactfuls/Nexus-X-Semi-Premium/main/Semi%20Premium%20Nexus%20X%20Source.lua"))()
